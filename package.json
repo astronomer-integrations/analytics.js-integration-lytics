@@ -1,5 +1,5 @@
 {
-  "name": "@segment/analytics.js-integration-lytics",
+  "name": "@astronomerio/analytics.js-integration-lytics",
   "description": "The Lytics analytics.js integration.",
   "version": "2.0.0",
   "keywords": [
