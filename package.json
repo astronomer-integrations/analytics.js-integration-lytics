@@ -1,5 +1,5 @@
 {
-  "name": "@segment/analytics.js-integration-lytics",
+  "name": "@astronomerio/analytics.js-integration-lytics",
   "description": "The Lytics analytics.js integration.",
   "version": "2.0.0",
   "keywords": [
@@ -14,14 +14,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/segment-integrations/analytics.js-integration-lytics.git"
+    "url": "git+https://github.com/astronomer-integrations/analytics.js-integration-lytics.git"
   },
-  "author": "Segment <friends@segment.com>",
+  "author": "Astronomer <info@astronomer.io>",
   "license": "SEE LICENSE IN LICENSE",
   "bugs": {
-    "url": "https://github.com/segment-integrations/analytics.js-integration-lytics/issues"
+    "url": "https://github.com/astronomer-integrations/analytics.js-integration-lytics/issues"
   },
-  "homepage": "https://github.com/segment-integrations/analytics.js-integration-lytics#readme",
+  "homepage": "https://github.com/astronomer-integrations/analytics.js-integration-lytics#readme",
   "dependencies": {
     "@segment/alias": "^1.0.0",
     "@segment/analytics.js-integration": "^2.1.0"
